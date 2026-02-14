@@ -1,11 +1,11 @@
 ---
 layout: page
-title: software
-permalink: /software/
+title: tech
+permalink: /tech/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [apps, math]
 horizontal: false
 ---
 

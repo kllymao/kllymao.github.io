@@ -5,5 +5,5 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description: Here is a stripped-down version of my CV! It includes my current position and my academic background. For more information, you can download the PDF above, though I'll warn you that it hasn't been updated in a while.
 ---

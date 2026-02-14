@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -19,9 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! My name is Kelly. 
 
-I'm a recent grad of the University of Chicago, where I majored in Computer Science with honors and Mathematics and minored in Theater and Performance Studies. 
-
-I currently work in technology, primarily as a software developer, and you can take a peek at my CV if you'd like, but this website is mostly for me to keep a repository of my personal projects, which include knitting and fun little applications for now. Feel free to poke around and connect with me!
+I'm a recent grad of the University of Chicago, where I majored in Computer Science with honors and Mathematics and minored in Theater and Performance Studies. I now work in technology as a software developer and project manager, but this website (which is very much still a work in progress) is primarily for me to keep a repository of my personal projects and other things that I'm up to outside of work. Feel free to poke around and connect with me!
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
