@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: projects
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: knitting
+      permalink: /knitting/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: software
+      permalink: /software/
 ---

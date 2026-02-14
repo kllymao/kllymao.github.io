@@ -1,7 +1,7 @@
 ---
 layout: page
-title: knitting
-permalink: /knitting/
+title: software
+permalink: /software/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 2
