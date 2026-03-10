@@ -19,7 +19,7 @@ RUN apt-get install imagemagick -y
 
 # install python3 and jupyter
 RUN apt-get install python3-pip -y
-RUN python3 -m pip install jupyter --break-system-packages
+# RUN python3 -m pip install jupyter --break-system-packages
 
 # install jekyll and dependencies
 RUN gem install jekyll bundler
